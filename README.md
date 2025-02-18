@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<h1 align="center">Olá! 👋 Sou Laise Reis</h1>
+<h1 align="center">Olá! 👋 </h1>
 Olá, eu sou Laise Reis! 👋
 
 🩺💻 Enfermeira | Cientista de Dados em Formação | Auditoria | Nefrologia | Tecnologia
