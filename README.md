@@ -1,10 +1,12 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 Olá, eu sou Laise Reis! 👋
+
 🩺💻 Enfermeira | Cientista de Dados em Formação | Auditoria | Nefrologia | Tecnologia
 
 Sou uma profissional da área da saúde com uma trajetória consolidada em enfermagem, auditoria e nefrologia, agora expandindo minha atuação para a Ciência de Dados. Minha paixão por tecnologia e inovação me impulsiona a explorar novas formas de transformar dados em insights estratégicos para a área da saúde.
 
 🚀 Sobre Mim
+
 🔹 Enfermeira especialista em Nefrologia, com experiência em gestão  e assistência a pacientes renais crônicos e agudos;
 🔹 Estudante de Ciência de Dados na EBAC, desenvolvendo habilidades em análise de dados, machine learning e visualização de dados;
 🔹 Interesse especial pela interseção entre tecnologia e saúde, buscando soluções baseadas em dados para otimizar processos e melhorar a qualidade assistencial.
